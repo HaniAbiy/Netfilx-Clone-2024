@@ -9,7 +9,6 @@ function App() {
     <>
       <h2>Hello Netflix</h2>
         
-     
        
     </>
   )
